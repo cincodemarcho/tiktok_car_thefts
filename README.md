@@ -2,7 +2,7 @@
 
 **How did a design flaw in Kias and Hyundais become a nationwide crime wave?** Many 2011–2021 Kia and Hyundai models were sold without engine immobilizers, making them far easier to steal. This project uses four datasets and six visualizations to tell the story of how thefts exploded, first in Milwaukee and then across the country, and ends with a call to action for affected owners.
 
-📓 [View the notebook](tiktok_car_thefts.ipynb) · 📄 [Read the design write-up (PDF)](tiktok_car_thefts_writeup.pdf)
+📓 [Notebook](tiktok_car_thefts.ipynb) · 📄 [Paper](tiktok_car_thefts_writeup.pdf)
 
 ---
 
